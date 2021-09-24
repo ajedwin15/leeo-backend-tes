@@ -22,6 +22,5 @@ import {pool} from '../database'
                  precio
             }
         }
-    })
-    
+    }) 
  }
